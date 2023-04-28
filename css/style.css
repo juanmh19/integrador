@@ -352,15 +352,15 @@ img {
 }
 
 .imagen-empleado  { 
-    background-image: url(/img/izquierda.jpg); 
+    background-image: url(../img/izquierda.jpg); 
 }
 
 .imagen-empleado2 { 
-    background-image: url(/img/central.jpg); 
+    background-image: url(../img/central.jpg); 
 }
 
 .imagen-empleado3 { 
-    background-image: url(/img/derecha.jpg); 
+    background-image: url(../img/derecha.jpg); 
 }
 
 .nombre-empleado, .descripcion-empleado, .nuestro-equipo h3, .iconos {
