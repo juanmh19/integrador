@@ -211,6 +211,10 @@ img {
     margin-top: 5rem;
 }
 
+.local {
+    height: 100%;
+}
+
 @media (max-width: 800px) {
     .division {
         grid-template-columns: 100%;
